@@ -1,6 +1,6 @@
 [ {"version":"1.2.0"}, 
 {"1.2.0": [ 
-{"url":"www.url.com", "bolumno":"2"} 
+{"url":"www.url.com", "bolumno":"2"},{"url":"www.url.com", "bolumno":"1"} 
  ]
  },
 {"1.1.0": [ 
