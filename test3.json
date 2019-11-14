@@ -1,10 +1,10 @@
 [ {"version":"1.2.0"}, 
 {"1.2.0": [ 
-{"url":"http://89.252.178.118/urunaktuel/viaaktuel/5", "bolumno":"2"},{"url":"http://89.252.178.118/urunaktuel/viaaktuel/5", "bolumno":"1"} 
+{"url":"https://raw.githubusercontent.com/sinangilerol/denemejson/master/t3.json", "bolumno":"2"},{"url":"https://raw.githubusercontent.com/sinangilerol/denemejson/master/t2.json", "bolumno":"1"} 
  ]
  },
 {"1.1.0": [ 
- {"url":"http://89.252.178.118/urunaktuel/viaaktuel/5", "bolumno":"1"} 
+ {"url":"https://raw.githubusercontent.com/sinangilerol/denemejson/master/t1.json", "bolumno":"1"} 
  ] }
  
  ]
