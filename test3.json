@@ -1,4 +1,8 @@
-[ {"version":"1.5.0"}, 
+[ {"version":"1.6.0"}, 
+{"1.6.0": [ 
+{"url":"https://raw.githubusercontent.com/sinangilerol/denemejson/master/t4.json", "bolumno":"6","sezonno":"1"} 
+ ]
+ },
 {"1.5.0": [ 
 {"url":"https://raw.githubusercontent.com/sinangilerol/denemejson/master/t4.json", "bolumno":"5","sezonno":"1"} 
  ]
